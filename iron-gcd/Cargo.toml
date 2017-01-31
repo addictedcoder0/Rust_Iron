@@ -1,0 +1,11 @@
+[package]
+name = "iron-gcd"
+version = "0.1.0"
+authors = ["abhishek-2863"]
+
+[dependencies]
+iron="*"
+persistent="*"
+router = "*"
+mime="*"
+urlencoded="*"
